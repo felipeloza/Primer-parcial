@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\obj\Debug\DALL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\bin\Debug\DALL.dll
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\bin\Debug\DALL.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\bin\Debug\ENTITY.dll
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\bin\Debug\ENTITY.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\obj\Debug\DALL.csproj.Up2Date
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\obj\Debug\DALL.dll
+C:\Users\ASUS\source\repos\PrimerParcial\DALL\obj\Debug\DALL.pdb

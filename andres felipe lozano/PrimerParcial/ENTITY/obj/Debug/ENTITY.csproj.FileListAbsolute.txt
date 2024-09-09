@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\PrimerParcial\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\ASUS\source\repos\PrimerParcial\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PrimerParcial\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PrimerParcial\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\ASUS\source\repos\PrimerParcial\ENTITY\obj\Debug\ENTITY.pdb
